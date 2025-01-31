@@ -1,4 +1,4 @@
-I’m israel sandra
+I’m israel sandra.
 A front-end dev experienced in HTML5, CSS, Tailwind CSS, Javascript, SASS, React.Js, 
 Responsive Web Design, Restful API and tools like Postman, ChatGPT, Discord, Shadcn/ui, Jira...
 I’m currently learning story book and testing.
